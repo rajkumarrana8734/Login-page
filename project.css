@@ -1,0 +1,76 @@
+*{
+    padding:0px;
+    margin:0px;
+    
+}
+
+
+
+#login{
+    width:500px;
+    height:400px;
+    background-color:#a464f3;
+    display: inline-block;
+    border-radius: 50px;
+    box-shadow:
+        0 0 10px #ffffff,
+        0 0 20px #ffffff,
+        0 0 40px #a855f7,
+        0 0 60px #a855f7;
+   
+    
+    
+    
+    
+}
+
+body{
+      background-color:#161418;
+      text-align: center;
+      margin-top:100px ;
+      
+      
+
+}
+
+#box{
+    padding-top: 10px;
+    background-color: rgb(255, 232, 203);
+    text-shadow: #ffcc00 1px 0 10px;
+    border-radius:20px;
+}
+
+#user{
+      margin-top: 100px;
+      font-size:30px;
+      border: none;
+    
+    
+}
+
+#password{
+    margin-top: 20px;
+    font-size:30px;
+    border:none;
+}
+button{
+    
+    margin-top: 20px;
+    font-size:30px;
+    background-color: #cd83fb;
+    border-radius: 10px;
+    
+  
+    
+    
+}
+
+a{
+    margin-top: 100x;
+    font-size:18px;
+    
+}
+
+
+
+
